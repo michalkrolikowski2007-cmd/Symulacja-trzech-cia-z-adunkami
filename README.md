@@ -14,5 +14,3 @@ Instrukcja obsługi:
 
 Początkowe kondycję:
 -W kodzie są opisane masy, ładunki, pozycje i wektory ciał. Można je dowolnie zmieniać
-
-Nagranie z działania : https://youtu.be/IXak1M3t82g 
